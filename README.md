@@ -2,7 +2,7 @@
 | --------|-------|-------|
 | [Andrea Falcone](https://twitter.com/asfalcone) | Boston, MA | [https://github.com/asfalcone/talks](https://github.com/asfalcone/talks) |
 | [Annyce Davis](https://twitter.com/brwngrldev) | Laurel, MD | [http://www.adavis.info/p/public-speaking.html](http://www.adavis.info/p/public-speaking.html) |
-| [Audrey Troutt](https://twitter.com/auditty) | Philadelphia, PA ||
+| [Audrey Troutt](https://twitter.com/auditty) | Philadelphia, PA | [http://audreytroutt.com/#speaking](http://audreytroutt.com/#speaking) |
 | [Brenda Cook](https://twitter.com/kenodoggy) | Denver, CO ||
 | [Caren Chang](https://www.linkedin.com/in/carenchang) | San Francisco, CA ||
 | [Chiu-Ki Chan](https://twitter.com/chiuki) | Boulder, CO | [http://chiuki.github.io](http://chiuki.github.io/) |
