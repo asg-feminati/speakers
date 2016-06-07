@@ -10,5 +10,6 @@
 | [Corey Latislaw](https://twitter.com/corey_latislaw) | Philadelphia, PA | [http://coreylatislaw.com/speaker-timeline](http://coreylatislaw.com/speaker-timeline) |
 | [Danielle Vass](https://twitter.com/de_velopment) | London, UK ||
 | [Huyen Tue Dao](https://twitter.com/queencodemonkey) | Denver, CO | [http://www.randomlytyping.com/speaking/](http://www.randomlytyping.com/speaking/)
+| [Kelly Shuster](https://twitter.com/KellyShuster) | Denver, CO | [http://www.kiodev.com/speaking/](http://www.kiodev.com/speaking/) |
 | [Kristin Marsicano](https://twitter.com/kristinmars) | Atlanta, GA ||
 | [Yash Prabhu](https://twitter.com/yashvprabhu) | Philadelphia, PA | [http://www.yprabhu.com/p/speaking.html](http://www.yprabhu.com/p/speaking.html) |
