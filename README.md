@@ -14,6 +14,6 @@
 | [Kristin Marsicano](https://twitter.com/kristinmars) | Atlanta, GA ||
 | [Margaret Maynard-Reid](https://twitter.com/margaretmz) | Seattle, WA | [http://margaretmz.github.io](http://margaretmz.github.io/) |
 | [Siena Aguayo](https://twitter.com/sienatime) | San Francisco, CA | [http://emojiparty.net/us/siena/talks](http://emojiparty.net/us/siena/talks) |
-| [Yash Prabhu](https://twitter.com/yashvprabhu) | Philadelphia, PA | [http://www.yprabhu.com/p/speaking.html](http://www.yprabhu.com/p/speaking.html) |
 | [Syrine Trabelsi](https://twitter.com/sarrouna23) | Paris, FR | [https://speakerdeck.com/syrinet]
+| [Yash Prabhu](https://twitter.com/yashvprabhu) | Philadelphia, PA | [http://www.yprabhu.com/p/speaking.html](http://www.yprabhu.com/p/speaking.html) |
 
