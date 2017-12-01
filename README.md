@@ -9,6 +9,7 @@
 | [Christina Lee](https://twitter.com/RunChristinaRun) |San Francisco, CA ||
 | [Corey Latislaw](https://twitter.com/corey_latislaw) | Philadelphia, PA | [http://coreylatislaw.com/speaker-timeline](http://coreylatislaw.com/speaker-timeline) |
 | [Danielle Vass](https://twitter.com/de_velopment) | London, UK ||
+| [Ellen Shapiro](https://twitter.com/designatednerd) | Nijmegen, NL | [http://designatednerd.com/public-speaking/](http://designatednerd.com/public-speaking/) |
 | [Huyen Tue Dao](https://twitter.com/queencodemonkey) | Denver, CO | [http://www.randomlytyping.com/speaking/](http://www.randomlytyping.com/speaking/)
 | [Kelly Shuster](https://twitter.com/KellyShuster) | Denver, CO | [http://www.kiodev.com/speaking/](http://www.kiodev.com/speaking/) |
 | [Kristin Marsicano](https://twitter.com/kristinmars) | Atlanta, GA ||
