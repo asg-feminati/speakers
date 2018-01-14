@@ -1,5 +1,6 @@
 | Name | Location | Speaking Profile |
 | --------|-------|-------|
+| [Alice Yuan](https://twitter.com/names_alice) | San Francisco, CA ||
 | [Andrea Falcone](https://twitter.com/asfalcone) | Boston, MA | [https://github.com/asfalcone/talks](https://github.com/asfalcone/talks) |
 | [Annyce Davis](https://twitter.com/brwngrldev) | Laurel, MD | [http://www.adavis.info/p/public-speaking.html](http://www.adavis.info/p/public-speaking.html) |
 | [Audrey Troutt](https://twitter.com/auditty) | Philadelphia, PA | [http://audreytroutt.com/#speaking](http://audreytroutt.com/#speaking) |
@@ -17,4 +18,3 @@
 | [Siena Aguayo](https://twitter.com/sienatime) | San Francisco, CA | [http://emojiparty.net/us/siena/talks](http://emojiparty.net/us/siena/talks) |
 | [Syrine Trabelsi](https://twitter.com/sarrouna23) | Paris, FR | [https://speakerdeck.com/syrinet]
 | [Yash Prabhu](https://twitter.com/yashvprabhu) | Philadelphia, PA | [http://www.yprabhu.com/p/speaking.html](http://www.yprabhu.com/p/speaking.html) |
-
