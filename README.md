@@ -11,6 +11,7 @@
 | [Corey Latislaw](https://twitter.com/corey_latislaw) | Philadelphia, PA | [coreylatislaw.com/speaker-timeline](http://coreylatislaw.com/speaker-timeline) |
 | [Danielle Vass](https://twitter.com/de_velopment) | London, UK ||
 | [Ellen Shapiro](https://twitter.com/designatednerd) | Nijmegen, NL | [designatednerd.com/public-speaking](http://designatednerd.com/public-speaking/) |
+| [Garima Jain](https://twitter.com/ragdroid) | New Delhi, India | [ragdroid.com/](http://ragdroid.com/)
 | [Huyen Tue Dao](https://twitter.com/queencodemonkey) | Denver, CO | [randomlytyping.com/speaking](http://www.randomlytyping.com/speaking/)
 | [Kelly Shuster](https://twitter.com/KellyShuster) | Denver, CO | [kiodev.com/speaking](http://www.kiodev.com/speaking/) |
 | [Kristin Marsicano](https://twitter.com/kristinmars) | Atlanta, GA ||
