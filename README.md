@@ -15,6 +15,7 @@
 | [Kelly Shuster](https://twitter.com/KellyShuster) | Denver, CO | [http://www.kiodev.com/speaking/](http://www.kiodev.com/speaking/) |
 | [Kristin Marsicano](https://twitter.com/kristinmars) | Atlanta, GA ||
 | [Margaret Maynard-Reid](https://twitter.com/margaretmz) | Seattle, WA | [http://margaretmz.github.io](http://margaretmz.github.io/) |
+| [Stacy Devino](https://twitter.com/doesitpew) | Dallas, TX | [http://stacydevino.com/speaking](http://stacydevino.com/speaking) |
 | [Siena Aguayo](https://twitter.com/sienatime) | San Francisco, CA | [http://emojiparty.net/us/siena/talks](http://emojiparty.net/us/siena/talks) |
 | [Syrine Trabelsi](https://twitter.com/sarrouna23) | Paris, FR | [https://speakerdeck.com/syrinet]
 | [Victoria Gonda](https://twitter.com/TTGonda) | Chicago, IL | [http://www.victoriagonda.com/talks](http://www.victoriagonda.com/talks)
