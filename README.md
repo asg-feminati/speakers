@@ -21,3 +21,4 @@
 | [Syrine Trabelsi](https://twitter.com/sarrouna23) | Paris, FR | [speakerdeck.com/syrinet](https://speakerdeck.com/syrinet)
 | [Victoria Gonda](https://twitter.com/TTGonda) | Chicago, IL | [victoriagonda.com/talks](http://www.victoriagonda.com/talks)
 | [Yash Prabhu](https://twitter.com/yashvprabhu) | Philadelphia, PA | [yprabhu.com/p/speaking.html](http://www.yprabhu.com/p/speaking.html) |
+| [Zarah Dominguez](https://twitter.com/zarahjutz) | Sydney, Australia | [zdominguez.com](http://zdominguez.com/) |
