@@ -16,5 +16,6 @@
 | [Margaret Maynard-Reid](https://twitter.com/margaretmz) | Seattle, WA | [http://margaretmz.github.io](http://margaretmz.github.io/) |
 | [Siena Aguayo](https://twitter.com/sienatime) | San Francisco, CA | [http://emojiparty.net/us/siena/talks](http://emojiparty.net/us/siena/talks) |
 | [Syrine Trabelsi](https://twitter.com/sarrouna23) | Paris, FR | [https://speakerdeck.com/syrinet]
+| [Victoria Gonda](https://twitter.com/TTGonda) | Chicago, IL | [http://www.victoriagonda.com/talks](http://www.victoriagonda.com/talks)
 | [Yash Prabhu](https://twitter.com/yashvprabhu) | Philadelphia, PA | [http://www.yprabhu.com/p/speaking.html](http://www.yprabhu.com/p/speaking.html) |
 
