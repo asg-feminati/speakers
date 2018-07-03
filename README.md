@@ -16,6 +16,7 @@
 | [Kelly Shuster](https://twitter.com/KellyShuster) | Denver, CO | [kiodev.com/speaking](http://www.kiodev.com/speaking/) |
 | [Kristin Marsicano](https://twitter.com/kristinmars) | Atlanta, GA ||
 | [Margaret Maynard-Reid](https://twitter.com/margaretmz) | Seattle, WA | [margaretmz.github.io](http://margaretmz.github.io/) |
+| [Maria Neumayer](https://twitter.com/marianeum) | London, UK | [speakerdeck.com/marianeum](https://speakerdeck.com/marianeum) |
 | [Rebecca Franks](https://twitter.com/riggaroo) | Johannesburg, South Africa | [riggaroo.co.za/public-speaking](https://riggaroo.co.za/public-speaking/) |
 | [Siena Aguayo](https://twitter.com/sienatime) | San Francisco, CA | [emojiparty.net/us/siena/talks](http://emojiparty.net/us/siena/talks) |
 | [Stacy Devino](https://twitter.com/doesitpew) | Dallas, TX | [stacydevino.com/speaking](http://stacydevino.com/speaking) |
