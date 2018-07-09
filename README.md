@@ -13,6 +13,7 @@
 | [Ellen Shapiro](https://twitter.com/designatednerd) | Nijmegen, NL | [designatednerd.com/public-speaking](http://designatednerd.com/public-speaking/) |
 | [Garima Jain](https://twitter.com/ragdroid) | New Delhi, India | [ragdroid.com/](http://ragdroid.com/)
 | [Huyen Tue Dao](https://twitter.com/queencodemonkey) | Denver, CO | [randomlytyping.com/speaking](http://www.randomlytyping.com/speaking/)
+| [Jolanda Verhoef](https://twitter.com/lojanda) | Utrecht, NL | [jolandaverhoef.com/](https://jolandaverhoef.com/)
 | [Kelly Shuster](https://twitter.com/KellyShuster) | Denver, CO | [kiodev.com/speaking](http://www.kiodev.com/speaking/) |
 | [Kristin Marsicano](https://twitter.com/kristinmars) | Atlanta, GA ||
 | [Margaret Maynard-Reid](https://twitter.com/margaretmz) | Seattle, WA | [margaretmz.github.io](http://margaretmz.github.io/) |
