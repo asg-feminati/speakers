@@ -17,6 +17,7 @@
 | [Jolanda Verhoef](https://twitter.com/lojanda) | Utrecht, NL | [jolandaverhoef.com/](https://jolandaverhoef.com/)
 | [Kelly Shuster](https://twitter.com/KellyShuster) | Denver, CO | [kiodev.com/speaking](http://www.kiodev.com/speaking/) |
 | [Kristin Marsicano](https://twitter.com/kristinmars) | Atlanta, GA ||
+| [Lara Martin](https://twitter.com/lariki) | Berlin, DE | [speakerdeck.com/laramartin](https://speakerdeck.com/laramartin/) |
 | [Laura Kelly](https://twitter.com/heylaurakelly) | San Francisco, CA | [speakerdeck.com/laurakelly](http://speakerdeck.com/laurakelly/) |
 | [Margaret Maynard-Reid](https://twitter.com/margaretmz) | Seattle, WA | [margaretmz.github.io](http://margaretmz.github.io/) |
 | [Maria Neumayer](https://twitter.com/marianeum) | London, UK | [speakerdeck.com/marianeum](https://speakerdeck.com/marianeum) |
