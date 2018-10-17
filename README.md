@@ -1,6 +1,7 @@
 | Name | Location | Speaking Profile |
 | --------|-------|-------|
 | [Alice Yuan](https://twitter.com/names_alice) | San Francisco, CA ||
+| [Ana Capatina](https://twitter.com/anikiki00) | London, UK | [speakerdeck.com/anikiki00](https://speakerdeck.com/anikiki00) |
 | [Andrea Falcone](https://twitter.com/asfalcone) | Boston, MA | [github.com/asfalcone/talks](https://github.com/asfalcone/talks) |
 | [Annyce Davis](https://twitter.com/brwngrldev) | Laurel, MD | [adavis.info/p/public-speaking.html](http://www.adavis.info/p/public-speaking.html) |
 | [Audrey Troutt](https://twitter.com/auditty) | Philadelphia, PA | [audreytroutt.com/#speaking](http://audreytroutt.com/#speaking) |
