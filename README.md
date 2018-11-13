@@ -5,7 +5,8 @@
 | [Andrea Falcone](https://twitter.com/asfalcone) | Boston, MA | [github.com/asfalcone/talks](https://github.com/asfalcone/talks) |
 | [Annyce Davis](https://twitter.com/brwngrldev) | Laurel, MD | [adavis.info/p/public-speaking.html](http://www.adavis.info/p/public-speaking.html) |
 | [Audrey Troutt](https://twitter.com/auditty) | Philadelphia, PA | [audreytroutt.com/#speaking](http://audreytroutt.com/#speaking) |
-| [Brenda Cook](https://twitter.com/kenodoggy) | Denver, CO | [kenodoggy.com](http://kenodoggy.com) |
+| [Brenda Cook](https://twitter.com/kenodoggy) | Denver, CO | [kenodoggy.com](http://kenodoggy.com) | 
+| [Busra Deniz Akin](https://twitter.com/busradeniz) | London, UK |[busradeniz.com/public-speaking](http://www.busradeniz.com/public-speaking/) | 
 | [Caren Chang](https://twitter.com/calren24) | San Francisco, CA |[carenslaboratory.com/speaking.html](http://www.carenslaboratory.com/speaking.html)|
 | [Chiu-Ki Chan](https://twitter.com/chiuki) | Boulder, CO | [chiuki.github.io](http://chiuki.github.io/) |
 | [Christina Lee](https://twitter.com/RunChristinaRun) |San Francisco, CA ||
