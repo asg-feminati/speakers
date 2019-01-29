@@ -1,4 +1,4 @@
-To add yourself (or others), just add "| [Name](https://name.com) | Location |[Website URL](http://www.website)|"
+To add yourself (or others), follow this format `| [Name](https://name.com) | Location |[Website URL](http://www.website)|` and submit a PR.
 
 | Name | Location | Speaking Profile |
 | --------|-------|-------|
