@@ -1,3 +1,5 @@
+To add yourself (or others), just add "| [Name](https://name.com) | Location |[Website URL](http://www.website)|"
+
 | Name | Location | Speaking Profile |
 | --------|-------|-------|
 | [Ellen Shapiro](https://twitter.com/designatednerd) | Nijmegen, NL |[designatednerd.com/public-speaking/](http://designatednerd.com/public-speaking/)|
