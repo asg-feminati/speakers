@@ -10,3 +10,4 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Lea Marolt Sonnenschein](https://twitter.com/hellosunschein) | London, UK | [hellosunschein.com](http://hellosunschein.com/)
 | [Meghan Kane](https://twitter.com/meghafon) | Berlin, DE | [meghaphone.com](http://meghaphone.com/)|
 | [Anastasiia Vixentael](https://twitter.com/vixentael) | Kyiv, UA | [github.com/vixentael](https://github.com/vixentael/my-talks)|
+| [Lisa Dziuba](https://twitter.com/LisaDziuba) | Kyiv, Ukraine |[speakerdeck.com/lisadziuba](https://speakerdeck.com/lisadziuba)|
