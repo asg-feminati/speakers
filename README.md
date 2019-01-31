@@ -38,3 +38,6 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Julie Yaunches](https://twitter.com/julieyaunches) | New York, NY |[yaunch.io/speaking/](http://yaunch.io/speaking/)|
 | [Donna McCulloch](https://twitter.com/donnaleamcc) | San Francisco, CA |[donnamcculloch.com](https://donnamcculloch.com)|
 | [Kateryna Sytnyk](https://twitter.com/katerynasytnyk) | San Francisco, CA |[fract.com](https://www.fract.com)|
+| [Julia Roggatz](https://www.linkedin.com/in/jroggatz) | Berlin, Germany ||
+| [Sarah E. Olson](https://twitter.com/saraheolson) | Minnetrista, MN |[saraheolson.com/speaking/](https://saraheolson.com/speaking/)|
+| [Blossom Woo](https://twitter.com/adhocdistro) | San Francisco, CA ||
