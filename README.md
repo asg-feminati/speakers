@@ -9,3 +9,4 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Kristina Fox](https://twitter.com/krstnfx) | Bay Area, CA | [kristina.io/presentations/](https://kristina.io/presentations/) |
 | [Lea Marolt Sonnenschein](https://twitter.com/hellosunschein) | London, UK | [hellosunschein.com](http://hellosunschein.com/)
 | [Meghan Kane](https://twitter.com/meghafon) | Berlin, DE | [meghaphone.com](http://meghaphone.com/)|
+| [Lisa Dziuba](https://twitter.com/LisaDziuba) | Kyiv, Ukraine |[speakerdeck.com/lisadziuba](https://speakerdeck.com/lisadziuba)|
