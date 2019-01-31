@@ -15,7 +15,7 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Christine Abernathy](https://twitter.com/abernathyca) | Suisun City, CA ||
 | [Namrata Bandekar](https://twitter.com/NamrataCodes) | San Francisco, CA ||
 | [Tammy Coron](https://twitter.com/Paradox927) | Lexington, TN ||
-| [Audrey Rebecca SlatkinTam](https://twitter.com/mataharimau) | Brunswick, AU ||
+| [Audrey Tam](https://twitter.com/mataharimau) | Brunswick, AU ||
 | [Jaimee Newberry](https://twitter.com/jaimeejaimee) | All Over the World | [jaimeejaimee.com/speaking/](http://www.jaimeejaimee.com/speaking/) |
 | [Caroline Begbie](https://twitter.com/carolinebegbie) | Queensland, AU || 
 | [Sarah Olson](https://twitter.com/saraheolson) | Minnetrista, MN | [saraheolson.com/speaking/](https://saraheolson.com/speaking/) |
