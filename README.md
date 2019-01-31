@@ -21,3 +21,5 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Sarah Olson](https://twitter.com/saraheolson) | Minnetrista, MN | [saraheolson.com/speaking/](https://saraheolson.com/speaking/) |
 | [Lyndsey Scott](https://twitter.com/Lyndsey360) | Los Angeles, CA | [lyndseyscott.com/press-1/](https://www.lyndseyscott.com/press-1/) |
 | [Catie Catterwaul](https://www.raywenderlich.com/u/catie) | Richmond, VA ||
+| [Jen Kelley](https://twitter.com/thehulkstoy) | Chicago, IL ||
+| [Yasmin Benatti](https://twitter.com/MinBenatti) | Campinas, Brasil |[speakerdeck.com/yabenatti](https://speakerdeck.com/yabenatti)|
