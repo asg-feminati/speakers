@@ -30,3 +30,8 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Meghan Kane](https://twitter.com/meghafon) | Berlin, Germany |[meghaphone.com](http://meghaphone.com)|
 | [Nataliya Patsovska](https://twitter.com/nataliya_bg) | Stockholm, Sweden ||
 | [Natasha Murashev](https://twitter.com/natashatherobot) | All Over the World |[natashatherobot.com/speaking/](https://www.natashatherobot.com/speaking/)|
+| [Tamar Nachmany](https://twitter.com/tamarshmallows) | New York, NY |[tamarnachmany.persona.co/talks](https://tamarnachmany.persona.co/talks)|
+| [Sommer Panage](https://twitter.com/sommer) | San Francisco, CA |[sommerpanage.com](http://www.sommerpanage.com)|
+| [Paola Mata](https://twitter.com/PaolaNotPaolo) | New York, NY |[pmatanyc.github.io](https://pmatanyc.github.io)|
+| [Lisa Dziuba](https://twitter.com/lisadziuba) | Kyiv, Ukraine ||
+| [Rebecca Slatkin](https://twitter.com/rebeccaslatkin) | Boston, MA ||
