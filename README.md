@@ -12,5 +12,14 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Anastasiia Vixentael](https://twitter.com/vixentael) | Kyiv, UA | [github.com/vixentael](https://github.com/vixentael/my-talks)|
 | [Lisa Dziuba](https://twitter.com/LisaDziuba) | Kyiv, Ukraine |[speakerdeck.com/lisadziuba](https://speakerdeck.com/lisadziuba)|
 | [Isabel Barerra](https://twitter.com/ifbarrera) | New York, NY ||
+| [Christine Abernathy](https://twitter.com/abernathyca) | Suisun City, CA ||
+| [Namrata Bandekar](https://twitter.com/NamrataCodes) | San Francisco, CA ||
+| [Tammy Coron](https://twitter.com/Paradox927) | Lexington, TN ||
+| [Audrey Tam](https://twitter.com/mataharimau) | Brunswick, AU ||
+| [Jaimee Newberry](https://twitter.com/jaimeejaimee) | All Over the World | [jaimeejaimee.com/speaking/](http://www.jaimeejaimee.com/speaking/) |
+| [Caroline Begbie](https://twitter.com/carolinebegbie) | Queensland, AU || 
+| [Sarah Olson](https://twitter.com/saraheolson) | Minnetrista, MN | [saraheolson.com/speaking/](https://saraheolson.com/speaking/) |
+| [Lyndsey Scott](https://twitter.com/Lyndsey360) | Los Angeles, CA | [lyndseyscott.com/press-1/](https://www.lyndseyscott.com/press-1/) |
+| [Catie Catterwaul](https://www.raywenderlich.com/u/catie) | Richmond, VA ||
 | [Jen Kelley](https://twitter.com/thehulkstoy) | Chicago, IL ||
 | [Yasmin Benatti](https://twitter.com/MinBenatti) | Campinas, Brasil |[speakerdeck.com/yabenatti](https://speakerdeck.com/yabenatti)|
