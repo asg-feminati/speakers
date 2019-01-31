@@ -13,3 +13,4 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Lisa Dziuba](https://twitter.com/LisaDziuba) | Kyiv, Ukraine |[speakerdeck.com/lisadziuba](https://speakerdeck.com/lisadziuba)|
 | [Isabel Barerra](https://twitter.com/ifbarrera) | New York, NY ||
 | [Jen Kelley](https://twitter.com/thehulkstoy) | Chicago, IL ||
+| [Yasmin Benatti](https://twitter.com/MinBenatti) | Campinas, Brasil |[speakerdeck.com/yabenatti](https://speakerdeck.com/yabenatti)|
