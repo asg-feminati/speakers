@@ -33,7 +33,6 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Tamar Nachmany](https://twitter.com/tamarshmallows) | New York, NY |[tamarnachmany.persona.co/talks](https://tamarnachmany.persona.co/talks)|
 | [Sommer Panage](https://twitter.com/sommer) | San Francisco, CA |[sommerpanage.com](http://www.sommerpanage.com)|
 | [Paola Mata](https://twitter.com/PaolaNotPaolo) | New York, NY |[pmatanyc.github.io](https://pmatanyc.github.io)|
-| [Lisa Dziuba](https://twitter.com/lisadziuba) | Kyiv, Ukraine ||
 | [Rebecca Slatkin](https://twitter.com/rebeccaslatkin) | Boston, MA ||
 | [Julie Yaunches](https://twitter.com/julieyaunches) | New York, NY |[yaunch.io/speaking/](http://yaunch.io/speaking/)|
 | [Donna McCulloch](https://twitter.com/donnaleamcc) | San Francisco, CA |[donnamcculloch.com](https://donnamcculloch.com)|
