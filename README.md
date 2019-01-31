@@ -20,3 +20,4 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Caroline Begbie](https://twitter.com/carolinebegbie) | Queensland, AU || 
 | [Sarah Olson](https://twitter.com/saraheolson) | Minnetrista, MN | [saraheolson.com/speaking/](https://saraheolson.com/speaking/) |
 | [Lyndsey Scott](https://twitter.com/Lyndsey360) | Los Angeles, CA | [lyndseyscott.com/press-1/](https://www.lyndseyscott.com/press-1/) |
+| [Catie Catterwaul](https://www.raywenderlich.com/u/catie) | Richmond, VA ||
