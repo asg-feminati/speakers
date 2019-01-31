@@ -23,3 +23,10 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Catie Catterwaul](https://www.raywenderlich.com/u/catie) | Richmond, VA ||
 | [Jen Kelley](https://twitter.com/thehulkstoy) | Chicago, IL ||
 | [Yasmin Benatti](https://twitter.com/MinBenatti) | Campinas, Brasil |[speakerdeck.com/yabenatti](https://speakerdeck.com/yabenatti)|
+| [Agnes Vasarhelyi](https://twitter.com/vasarhelyia) | San Francisco, CA |[blog.alltheflow.com](https://blog.alltheflow.com/about/)|
+| [Ayaka Nonana](https://twitter.com/ayanonagon) | San Francisco, CA |[ayaka.me](http://www.ayaka.me)|
+| [Carola Nitz](https://twitter.com/_Caro_N) | Berlin, Germany |[carolanitz.com](https://www.carolanitz.com)|
+| [Erica Sadun](https://twitter.com/ericasadun) | Denver, CO |[ericasadun.com](https://ericasadun.com)|
+| [Meghan Kane](https://twitter.com/meghafon) | Berlin, Germany |[meghaphone.com](http://meghaphone.com)|
+| [Nataliya Patsovska](https://twitter.com/nataliya_bg) | Stockholm, Sweden ||
+| [Natasha Murashev](https://twitter.com/natashatherobot) | All Over the World |[natashatherobot.com/speaking/](https://www.natashatherobot.com/speaking/)|
