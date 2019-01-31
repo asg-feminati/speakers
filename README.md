@@ -12,3 +12,4 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Anastasiia Vixentael](https://twitter.com/vixentael) | Kyiv, UA | [github.com/vixentael](https://github.com/vixentael/my-talks)|
 | [Lisa Dziuba](https://twitter.com/LisaDziuba) | Kyiv, Ukraine |[speakerdeck.com/lisadziuba](https://speakerdeck.com/lisadziuba)|
 | [Isabel Barerra](https://twitter.com/ifbarrera) | New York, NY ||
+| [Jen Kelley](https://twitter.com/thehulkstoy) | Chicago, IL ||
