@@ -42,3 +42,4 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Blossom Woo](https://twitter.com/adhocdistro) | San Francisco, CA ||
 | [Vui Nguyen](https://twitter.com/sunfishgurl) | Denver, CO |[sunfishempire.com](http://sunfishempire.com)|
 | [Eleni Papanikolopoulou](https://twitter.com/elenipapanikolo) | Athens, GR |[speakerdeck.com/eleni_papan](https://speakerdeck.com/eleni_papan)|
+| [Kathleen Chung](https://twitter.com/kathleenchung) | Toronto, ON ||
