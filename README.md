@@ -49,3 +49,5 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Glenna Bufford](https://twitter.com/glennersboofy) | Berlin, Germany ||
 | [Sofia Swidarowicz](https://twitter.com/phynet) | Madrid, Spain ||
 | [Mélanie Bessagnet](https://twitter.com/MBessagnet) | Toulouse, France ||
+| [Eleni Papanikolopoulou](https://twitter.com/elenipapanikolo) | Athens, GR |[speakerdeck.com/eleni_papan](https://speakerdeck.com/eleni_papan)|
+| [Kathleen Chung](https://twitter.com/kathleenchung) | Toronto, ON ||
