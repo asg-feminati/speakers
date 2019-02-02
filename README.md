@@ -33,7 +33,6 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Tamar Nachmany](https://twitter.com/tamarshmallows) | New York, NY |[tamarnachmany.persona.co/talks](https://tamarnachmany.persona.co/talks)|
 | [Sommer Panage](https://twitter.com/sommer) | San Francisco, CA |[sommerpanage.com](http://www.sommerpanage.com)|
 | [Paola Mata](https://twitter.com/PaolaNotPaolo) | New York, NY |[pmatanyc.github.io](https://pmatanyc.github.io)|
-| [Lisa Dziuba](https://twitter.com/lisadziuba) | Kyiv, Ukraine ||
 | [Rebecca Slatkin](https://twitter.com/rebeccaslatkin) | Boston, MA ||
 | [Julie Yaunches](https://twitter.com/julieyaunches) | New York, NY |[yaunch.io/speaking/](http://yaunch.io/speaking/)|
 | [Donna McCulloch](https://twitter.com/donnaleamcc) | San Francisco, CA |[donnamcculloch.com](https://donnamcculloch.com)|
@@ -41,5 +40,14 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Julia Roggatz](https://www.linkedin.com/in/jroggatz) | Berlin, Germany ||
 | [Blossom Woo](https://twitter.com/adhocdistro) | San Francisco, CA ||
 | [Vui Nguyen](https://twitter.com/sunfishgurl) | Denver, CO |[sunfishempire.com](http://sunfishempire.com)|
+| [Yvette Cook](https://twitter.com/ynzc) | London, UK ||
+| [Berta Devant](https://twitter.com/bertadevant) | Barcelona, Spain ||
+| [Maxim Cramer](https://twitter.com/mennenia) | London, UK ||
+| [Niamh Power](https://twitter.com/niamh__power) | Wrexham, Wales  ||
+| [Janina Kutyn](https://twitter.com/JaninaKutyn) | Amsterdam, The Netherlands ||
+| [Marina Gornostaeva](https://twitter.com/hybridcattt) | Copenhagen, Denmark ||
+| [Glenna Bufford](https://twitter.com/glennersboofy) | Berlin, Germany ||
+| [Sofia Swidarowicz](https://twitter.com/phynet) | Madrid, Spain ||
+| [Mélanie Bessagnet](https://twitter.com/MBessagnet) | Toulouse, France ||
 | [Eleni Papanikolopoulou](https://twitter.com/elenipapanikolo) | Athens, GR |[speakerdeck.com/eleni_papan](https://speakerdeck.com/eleni_papan)|
 | [Kathleen Chung](https://twitter.com/kathleenchung) | Toronto, ON ||
