@@ -59,4 +59,4 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Kamilah Taylor](https://twitter.com/kamilah) | USA |
 | [Glenna Buford](https://twitter.com/glennersboofy) | Berlin, Germany |
 | [Laura Savino](https://twitter.com/savinola) |  Seattle, WA |
-
+| [Anne Cahalan](https://twitter.com/northofnormal) | Location |[noti.st/northofnormal](https://noti.st/northofnormal)|
