@@ -10,7 +10,7 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Timirah James](https://twitter.com/timirahj) | Los Angeles, CA ||
 | [Lea Marolt Sonnenschein](https://twitter.com/hellosunschein) | London, UK | [hellosunschein.com](http://hellosunschein.com/)
 | [Meghan Kane](https://twitter.com/meghafon) | Berlin, DE | [meghaphone.com](http://meghaphone.com/)|
-| [Anastasiia Vixentael](https://twitter.com/vixentael) | Kyiv, UA | [github.com/vixentael](https://github.com/vixentael/my-talks)|
+| [Anastasiia Voitova](https://twitter.com/vixentael) | Kyiv, UA | [github.com/vixentael](https://github.com/vixentael/my-talks)|
 | [Lisa Dziuba](https://twitter.com/LisaDziuba) | Kyiv, Ukraine |[speakerdeck.com/lisadziuba](https://speakerdeck.com/lisadziuba)|
 | [Isabel Barerra](https://twitter.com/ifbarrera) | New York, NY ||
 | [Christine Abernathy](https://twitter.com/abernathyca) | Suisun City, CA ||
@@ -50,4 +50,13 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Sofia Swidarowicz](https://twitter.com/phynet) | Madrid, Spain ||
 | [Mélanie Bessagnet](https://twitter.com/MBessagnet) | Toulouse, France ||
 | [Eleni Papanikolopoulou](https://twitter.com/elenipapanikolo) | Athens, GR |[speakerdeck.com/eleni_papan](https://speakerdeck.com/eleni_papan)|
-| [Kathleen Chung](https://twitter.com/kathleenchung) | Toronto, ON ||
+| [Kathleen Chung](https://twitter.com/kathleenchung) | Toronto, ON |
+| [Kateryna Gridina](https://twitter.com/gridNAka) | 
+| [Sally Shepard](https://twitter.com/mostgood) | London, GB |
+| [Julia Von Kallenberg](https://twitter.com/KallenbergJulia) | Berlin, Germany |
+| [Cecilia Humlelu](https://twitter.com/CeciliaHumlelu) | Stockholm, Sweden |
+| [Ashley Nelson-Hornstein](https://twitter.com/ashleynh) | USA |
+| [Kamilah Taylor](https://twitter.com/kamilah) | USA |
+| [Glenna Buford](https://twitter.com/glennersboofy) | Berlin, Germany |
+| [Laura Savino](https://twitter.com/savinola) |  Seattle, WA |
+
