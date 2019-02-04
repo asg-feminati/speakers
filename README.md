@@ -50,6 +50,7 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Sofia Swidarowicz](https://twitter.com/phynet) | Madrid, Spain ||
 | [Mélanie Bessagnet](https://twitter.com/MBessagnet) | Toulouse, France ||
 | [Eleni Papanikolopoulou](https://twitter.com/elenipapanikolo) | Athens, GR |[speakerdeck.com/eleni_papan](https://speakerdeck.com/eleni_papan)|
+| [Anu Mittal](https://twitter.com/anu22mittal) | Delhi, India |[anumittal.in](https://anumittal.in/tag/talks/)|
 | [Kathleen Chung](https://twitter.com/kathleenchung) | Toronto, ON |
 | [Kateryna Gridina](https://twitter.com/gridNAka) | 
 | [Sally Shepard](https://twitter.com/mostgood) | London, GB |
