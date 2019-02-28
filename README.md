@@ -13,6 +13,7 @@
 | [Corey Latislaw](https://twitter.com/corey_latislaw) | Philadelphia, PA | [coreylatislaw.com/speaker-timeline](http://coreylatislaw.com/speaker-timeline) |
 | [Danielle Vass](https://twitter.com/de_velopment) | London, UK ||
 | [Ellen Shapiro](https://twitter.com/designatednerd) | Nijmegen, NL | [designatednerd.com/public-speaking](http://designatednerd.com/public-speaking/) |
+| [Florina Muntenescu](https://twitter.com/fmuntenescu) | London, UK | 
 | [Garima Jain](https://twitter.com/ragdroid) | New Delhi, India | [ragdroid.com/](http://ragdroid.com/)
 | [Huyen Tue Dao](https://twitter.com/queencodemonkey) | Denver, CO | [randomlytyping.com/speaking](http://www.randomlytyping.com/speaking/)
 | [Jolanda Verhoef](https://twitter.com/lojanda) | Utrecht, NL | [jolandaverhoef.com/](https://jolandaverhoef.com/)
