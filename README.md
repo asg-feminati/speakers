@@ -26,6 +26,7 @@
 | [Maria Neumayer](https://twitter.com/marianeum) | London, UK | [speakerdeck.com/marianeum](https://speakerdeck.com/marianeum) |
 | [Moyinoluwa Adeyemi](https://twitter.com/moyheen) | Lagos, Nigeria | [speakerdeck.com/moyheen](https://speakerdeck.com/moyheen) |
 | [Niamh Power](https://twitter.com/niamh__power) | North Wales, UK | [https://www.niamhpower.co.uk/community](https://niamhpower.co.uk) |
+| [Nicole Borrelli](https://twitter.com/LadyNikoleta) | San Francisco, CA ||
 | [Nicolette Yadegar](https://twitter.com/00nicolette) | San Francisco, CA ||
 | [Rebecca Franks](https://twitter.com/riggaroo) | Johannesburg, South Africa | [riggaroo.co.za/public-speaking](https://riggaroo.co.za/public-speaking/) |
 | [Richa Khanna](https://twitter.com/RichaKhanna10) | Ottawa, Canada | [speakerdeck.com/richakhanna](https://speakerdeck.com/richakhanna) |
