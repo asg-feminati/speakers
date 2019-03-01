@@ -10,7 +10,7 @@
 | [Caren Chang](https://twitter.com/calren24) | San Francisco, CA |[carenslaboratory.com/speaking.html](http://www.carenslaboratory.com/speaking.html)|
 | [Chiu-Ki Chan](https://twitter.com/chiuki) | Boulder, CO | [chiuki.github.io](http://chiuki.github.io/) |
 | [Christina Lee](https://twitter.com/RunChristinaRun) |San Francisco, CA ||
-| [Corey Latislaw](https://twitter.com/corey_latislaw) | Philadelphia, PA | [coreylatislaw.com/speaker-timeline](http://coreylatislaw.com/speaker-timeline) |
+| [Corey Latislaw](https://twitter.com/corey_latislaw) | London, UK | [coreylatislaw.com/speaker-timeline](http://coreylatislaw.com/speaker-timeline) |
 | [Danielle Vass](https://twitter.com/de_velopment) | London, UK ||
 | [Ellen Shapiro](https://twitter.com/designatednerd) | Nijmegen, NL | [designatednerd.com/public-speaking](http://designatednerd.com/public-speaking/) |
 | [Florina Muntenescu](https://twitter.com/fmuntenescu) | London, UK | 
