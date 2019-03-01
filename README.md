@@ -29,6 +29,7 @@
 | [Nicolette Yadegar](https://twitter.com/00nicolette) | San Francisco, CA ||
 | [Rebecca Franks](https://twitter.com/riggaroo) | Johannesburg, South Africa | [riggaroo.co.za/public-speaking](https://riggaroo.co.za/public-speaking/) |
 | [Richa Khanna](https://twitter.com/RichaKhanna10) | Ottawa, Canada | [speakerdeck.com/richakhanna](https://speakerdeck.com/richakhanna) |
+| [Sanae Rosen](https://twitter.com/sanaerosen) | San Francisco, CA | [sanaerosen.github.io](https://sanaerosen.github.io/)|
 | [Siena Aguayo](https://twitter.com/sienatime) | San Francisco, CA | [emojiparty.net/us/siena/talks](http://emojiparty.net/us/siena/talks) |
 | [Stacy Devino](https://twitter.com/doesitpew) | Dallas, TX | [stacydevino.com/speaking](http://stacydevino.com/speaking) |
 | [Syrine Trabelsi](https://twitter.com/sarrouna23) | Paris, FR | [speakerdeck.com/syrinet](https://speakerdeck.com/syrinet)
