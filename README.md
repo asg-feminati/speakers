@@ -25,7 +25,7 @@
 | [Margaret Maynard-Reid](https://twitter.com/margaretmz) | Seattle, WA | [margaretmz.github.io](http://margaretmz.github.io/) |
 | [Maria Neumayer](https://twitter.com/marianeum) | London, UK | [speakerdeck.com/marianeum](https://speakerdeck.com/marianeum) |
 | [Moyinoluwa Adeyemi](https://twitter.com/moyheen) | Lagos, Nigeria | [speakerdeck.com/moyheen](https://speakerdeck.com/moyheen) |
-| [Nenne Adaora Nwodo](https://twitter.com/theadoranwodo) | Lagos, Nigeria | [speakerdeck.com/adoranwodo](https://speakerdeck.com/adoranwodo) |
+| [Nenne Adaora Nwodo](https://twitter.com/theadoranwodo) | Lagos, Nigeria | [adoranwodo.com](https://adoranwodo.com/) |
 | [Niamh Power](https://twitter.com/niamh__power) | North Wales, UK | [https://www.niamhpower.co.uk/community](https://niamhpower.co.uk) |
 | [Nicole Borrelli](https://twitter.com/LadyNikoleta) | San Francisco, CA ||
 | [Nicolette Yadegar](https://twitter.com/00nicolette) | San Francisco, CA ||
