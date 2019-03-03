@@ -5,6 +5,7 @@
 | [Andrea Falcone](https://twitter.com/asfalcone) | Boston, MA | [github.com/asfalcone/talks](https://github.com/asfalcone/talks) |
 | [Annyce Davis](https://twitter.com/brwngrldev) | Laurel, MD | [adavis.info/p/public-speaking.html](http://www.adavis.info/p/public-speaking.html) |
 | [Audrey Troutt](https://twitter.com/auditty) | Philadelphia, PA | [audreytroutt.com/#speaking](http://audreytroutt.com/#speaking) |
+| [Anita Singh](https://twitter.com/anitas3791) | Berlin, DE | [speakerdeck.com/anitas3791](https://speakerdeck.com/anitas3791) |
 | [Brenda Cook](https://twitter.com/kenodoggy) | Denver, CO | [kenodoggy.com](http://kenodoggy.com) | 
 | [Busra Deniz Akin](https://twitter.com/busradeniz) | London, UK |[busradeniz.com/public-speaking](http://www.busradeniz.com/public-speaking/) | 
 | [Caren Chang](https://twitter.com/calren24) | San Francisco, CA |[carenslaboratory.com/speaking.html](http://www.carenslaboratory.com/speaking.html)|
