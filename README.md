@@ -24,6 +24,7 @@
 | [Lara Martin](https://twitter.com/lariki) | Berlin, DE | [speakerdeck.com/laramartin](https://speakerdeck.com/laramartin/) |
 | [Laura Kelly](https://twitter.com/heylaurakelly) | San Francisco, CA | [speakerdeck.com/laurakelly](http://speakerdeck.com/laurakelly/) |
 | [Lisa Wray](https://twitter.com/lisawray) | Seattle, WA ||
+| [Lyla Fujiwara](https://twitter.com/ceruleanotter) | San Francisco, CA ||
 | [Margaret Maynard-Reid](https://twitter.com/margaretmz) | Seattle, WA | [margaretmz.github.io](http://margaretmz.github.io/) |
 | [Maria Neumayer](https://twitter.com/marianeum) | London, UK | [speakerdeck.com/marianeum](https://speakerdeck.com/marianeum) |
 | [Moyinoluwa Adeyemi](https://twitter.com/moyheen) | Lagos, Nigeria | [speakerdeck.com/moyheen](https://speakerdeck.com/moyheen) |
