@@ -32,6 +32,7 @@
 | [Niamh Power](https://twitter.com/niamh__power) | North Wales, UK | [https://www.niamhpower.co.uk/community](https://niamhpower.co.uk) |
 | [Nicole Borrelli](https://twitter.com/LadyNikoleta) | San Francisco, CA ||
 | [Nicolette Yadegar](https://twitter.com/00nicolette) | San Francisco, CA ||
+| [Paresh Mayani](https://twitter.com/pareshmayani) | Ahmedabad, India | [speakerdeck.com/pareshmayani](https://speakerdeck.com/pareshmayani/) |
 | [Rebecca Franks](https://twitter.com/riggaroo) | Johannesburg, South Africa | [riggaroo.co.za/public-speaking](https://riggaroo.co.za/public-speaking/) |
 | [Richa Khanna](https://twitter.com/RichaKhanna10) | Ottawa, Canada | [speakerdeck.com/richakhanna](https://speakerdeck.com/richakhanna) |
 | [Sanae Rosen](https://twitter.com/sanaerosen) | San Francisco, CA | [sanaerosen.github.io](https://sanaerosen.github.io/)|
