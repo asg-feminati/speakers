@@ -62,3 +62,4 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Laura Savino](https://twitter.com/savinola) |  Seattle, WA |
 | [Anne Cahalan](https://twitter.com/northofnormal) | Detroit, MI |[noti.st/northofnormal](https://noti.st/northofnormal)|
 | [Daisy Ramos](https://twitter.com/daisyr317) |  New York City |
+| [Kaya Thomas](https://twitter.com/kthomas901) | Oakland, CA | [kayathomas.info](https://kayathomas.info/)|
