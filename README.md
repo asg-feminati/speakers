@@ -15,6 +15,7 @@
 | [Corey Latislaw](https://twitter.com/corey_latislaw) | London, UK | [coreylatislaw.com/speaker-timeline](http://coreylatislaw.com/speaker-timeline) |
 | [Danielle Vass](https://twitter.com/de_velopment) | London, UK ||
 | [Eliza Camber](https://twitter.com/ElizaCamber) | Amsterdam, NL | [elizacamber.dev](https://elizacamber.dev) |
+| [Elin Nilsson](https://twitter.com/hejelinnilsson) | Stockholm, SWE | [speakerdeck.com/hejelinnilsson](https://speakerdeck.com/hejelinnilsson) |
 | [Ellen Shapiro](https://twitter.com/designatednerd) | Nijmegen, NL | [designatednerd.com/public-speaking](http://designatednerd.com/public-speaking/) |
 | [Florina Muntenescu](https://twitter.com/fmuntenescu) | London, UK | 
 | [Garima Jain](https://twitter.com/ragdroid) | New Delhi, India | [ragdroid.com/](http://ragdroid.com/)
