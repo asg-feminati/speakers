@@ -8,6 +8,7 @@
 | [Anita Singh](https://twitter.com/anitas3791) | Berlin, DE | [speakerdeck.com/anitas3791](https://speakerdeck.com/anitas3791) |
 | [Aygul Zagidullina](https://twitter.com/aygul) | London, UK | [www.aygul.co/speaking](https://www.aygul.co/speaking) |
 | [Brenda Cook](https://twitter.com/kenodoggy) | Denver, CO | [kenodoggy.com](http://kenodoggy.com) | 
+| [Britt Barak](https://twitter.com/brittBarak) | London, UK | [speakerdeck.com/brittbarak](http://speakerdeck.com/brittbarak) | 
 | [Busra Deniz Akin](https://twitter.com/busradeniz) | London, UK |[busradeniz.com/public-speaking](http://www.busradeniz.com/public-speaking/) | 
 | [Caren Chang](https://twitter.com/calren24) | San Francisco, CA |[carenslaboratory.com/speaking.html](http://www.carenslaboratory.com/speaking.html)|
 | [Chiu-Ki Chan](https://twitter.com/chiuki) | Boulder, CO | [chiuki.github.io](http://chiuki.github.io/) |
