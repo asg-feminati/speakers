@@ -63,3 +63,4 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Anne Cahalan](https://twitter.com/northofnormal) | Detroit, MI |[noti.st/northofnormal](https://noti.st/northofnormal)|
 | [Daisy Ramos](https://twitter.com/daisyr317) |  New York City |
 | [Kaya Thomas](https://twitter.com/kthomas901) | Oakland, CA | [kayathomas.info](https://kayathomas.info/)|
+| [Roxana Jula](https://twitter.com/roxanajula) | Aarhus, Denmark | [roxanajula.com](https://roxanajula.com/)|
