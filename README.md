@@ -30,7 +30,7 @@
 | [Lyla Fujiwara](https://twitter.com/ceruleanotter) | San Francisco, CA ||
 | [Margaret Maynard-Reid](https://twitter.com/margaretmz) | Seattle, WA | [margaretmz.github.io](http://margaretmz.github.io/) |
 | [Maria Neumayer](https://twitter.com/marianeum) | London, UK | [speakerdeck.com/marianeum](https://speakerdeck.com/marianeum) |
-| [Moyinoluwa Adeyemi](https://twitter.com/moyheen) | Lagos, Nigeria | [speakerdeck.com/moyheen](https://speakerdeck.com/moyheen) |
+| [Moyinoluwa Adeyemi](https://twitter.com/moyheen) | Lagos, Nigeria | [speakerdeck.com/moyheen](https://moyinoluwa.dev/public-speaking) |
 | [Nenne Adaora Nwodo](https://twitter.com/theadoranwodo) | Lagos, Nigeria | [adoranwodo.com](https://adoranwodo.com/) |
 | [Niamh Power](https://twitter.com/niamh__power) | North Wales, UK | [https://www.niamhpower.co.uk/community](https://niamhpower.co.uk) |
 | [Nicole Borrelli](https://twitter.com/LadyNikoleta) | San Francisco, CA ||
