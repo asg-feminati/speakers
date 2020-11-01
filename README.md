@@ -20,6 +20,7 @@
 | [Ellen Shapiro](https://twitter.com/designatednerd) | Nijmegen, NL | [designatednerd.com/public-speaking](http://designatednerd.com/public-speaking/) |
 | [Florina Muntenescu](https://twitter.com/fmuntenescu) | London, UK | 
 | [Garima Jain](https://twitter.com/ragdroid) | New Delhi, India | [ragdroid.com/](http://ragdroid.com/)
+| [Hawazine Haouat](https://twitter.com/androidTechiZen) | London, UK | [github.com/hhaouat](https://github.com/hhaouat)
 | [Huyen Tue Dao](https://twitter.com/queencodemonkey) | Denver, CO | [randomlytyping.com/speaking](http://www.randomlytyping.com/speaking/)
 | [Jolanda Verhoef](https://twitter.com/lojanda) | Utrecht, NL | [jolandaverhoef.com/](https://jolandaverhoef.com/)
 | [Kelly Shuster](https://twitter.com/KellyShuster) | Denver, CO | [kiodev.com/speaking](http://www.kiodev.com/speaking/) |
