@@ -28,6 +28,7 @@
 | [Lara Martin](https://twitter.com/lariki) | Berlin, DE | [speakerdeck.com/laramartin](https://speakerdeck.com/laramartin/) |
 | [Laura Kelly](https://twitter.com/heylaurakelly) | San Francisco, CA | [speakerdeck.com/laurakelly](http://speakerdeck.com/laurakelly/) |
 | [Lisa Wray](https://twitter.com/lisawray) | Seattle, WA ||
+| [Linda Zhou](https://twitter.com/lhmzhou) | Miami, FL ||
 | [Lyla Fujiwara](https://twitter.com/ceruleanotter) | San Francisco, CA ||
 | [Margaret Maynard-Reid](https://twitter.com/margaretmz) | Seattle, WA | [margaretmz.github.io](http://margaretmz.github.io/) |
 | [Maria Neumayer](https://twitter.com/marianeum) | London, UK | [speakerdeck.com/marianeum](https://speakerdeck.com/marianeum) |
@@ -45,3 +46,4 @@
 | [Victoria Gonda](https://twitter.com/TTGonda) | Chicago, IL | [victoriagonda.com/talks](http://www.victoriagonda.com/talks)
 | [Yash Prabhu](https://twitter.com/yashvprabhu) | Philadelphia, PA | [yprabhu.com/p/speaking.html](http://www.yprabhu.com/p/speaking.html) |
 | [Zarah Dominguez](https://twitter.com/zarahjutz) | Sydney, Australia | [zarah.dev/about](https://zarah.dev/about) |
+
